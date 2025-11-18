@@ -23,6 +23,15 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 
 ---
 
+## 📦 Requirements
+- Raspberry Pi 4 (recommended) or newer
+- MicroSD card (≥16GB, Class 10 or better) or SSD
+- Stable network connection
+- DietPi image (download from [dietpi.com](https://dietpi.com/))
+- Basic Linux knowledge
+
+---
+
 ## 🛠 Installation Steps
 
 
