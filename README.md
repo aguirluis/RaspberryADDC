@@ -24,11 +24,12 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 ---
 
 ## 📦 Requirements
-- Raspberry Pi 4 (recommended) or newer
-- MicroSD card (≥16GB, Class 10 or better) or SSD
-- Stable network connection
-- DietPi image (download from [dietpi.com](https://dietpi.com/))
-- Basic Linux knowledge
+```bash
+Update package:
+sudo apt-get update
+Install Samba 4 and required tools:
+sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
+During Kerberos setup, accept defaults (this will be configure later).
 
 ---
 
