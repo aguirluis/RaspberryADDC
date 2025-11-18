@@ -23,7 +23,7 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 
 ---
 
-## 📦 Requirements
+### ⚙️ Step 2: Install Samba and Dependencies
 
 Update package:
 sudo apt-get update
@@ -34,7 +34,7 @@ During Kerberos setup, accept defaults (this will be configure later).
 
 ---
 
-## 📦 Requirements
+### 🌐 Step 3: Provision the Domain Controller
 
 Update package:
 sudo apt-get update
