@@ -47,7 +47,7 @@ During Kerberos setup, accept defaults (this will be configure later).
 
 
 ### 2. Install Samba and Dependencies
-```bash
+
 Update package:
 sudo apt-get update
 Install Samba 4 and required tools:
