@@ -37,7 +37,7 @@ sudo apt-get update
 Install Samba 4 and required tools:
 sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
 During Kerberos setup, accept defaults (this will be configure later).
-
+----
 ### 3. Provision the Domain Controller
 ```bash
 Stop samba services before provisioning
