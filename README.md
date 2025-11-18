@@ -23,34 +23,14 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 
 ---
 
-### ⚙️ Step 2: Install Samba and Dependencies
-
-Update package:
-sudo apt-get update
-Install Samba 4 and required tools:
-sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
-During Kerberos setup, accept defaults (this will be configure later).
-
-
----
-
-### 🌐 Step 3: Provision the Domain Controller
-
-Update package:
-sudo apt-get update
-Install Samba 4 and required tools:
-sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
-During Kerberos setup, accept defaults (this will be configure later).
----
-
 ## 🛠 Installation Steps
 
+### 1. Flash DietPi
+- Download the DietPi image for Raspberry Pi.
+- Flash it to your SD card using BalenaEtcher or Raspberry Pi Imager.
+- Boot the Pi and complete the initial DietPi setup (`dietpi-update`).
 
 ### 2. Install Samba and Dependencies
-
-Update package:
+```bash
 sudo apt-get update
-Install Samba 4 and required tools:
 sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
-During Kerberos setup, accept defaults (this will be configure later).
-  ---
