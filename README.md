@@ -36,6 +36,6 @@ During Kerberos setup, accept defaults (this will be configure later).
 
 ---
 
-## 🌐 Step 3: Provision the Domain Controller
+## 🌐 Provision the Domain Controller
 
 
