@@ -33,4 +33,4 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 ### 2. Install Samba and Dependencies
 ```bash
 sudo apt-get update
-sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
+sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user. '''
