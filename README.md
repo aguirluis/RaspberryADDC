@@ -34,5 +34,5 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 ```bash
 sudo apt-get update
 sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user.\
-
+''' bash
 ### 3. Provision the Domain 
