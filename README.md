@@ -33,15 +33,7 @@ sudo apt-get update
 Install Samba 4 and required tools:
 sudo apt-get install samba samba-dsdb-modules samba-vfs-modules winbind libpam-winbind libnss-winbind krb5-user
 During Kerberos setup, accept defaults (this will be configure later).
-----
 
-### 3. 
-- Download the DietPi image for Raspberry Pi.
-- Flash it to your SD card using BalenaEtcher or Raspberry Pi Imager.
-- Boot the Pi and complete the initial DietPi setup (`dietpi-update`).
+---
 
-### 3. Provision the Domain Controller
-```bash
-Stop samba services before provisioning
-sudo systemctl stop smbd nmbd winbind
 
