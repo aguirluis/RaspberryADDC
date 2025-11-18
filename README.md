@@ -24,7 +24,7 @@ It’s ideal for labs, homelabs, and small environments where you want to experi
 ---
 
 ## 📦 Requirements
-```bash
+
 Update package:
 sudo apt-get update
 Install Samba 4 and required tools:
