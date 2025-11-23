@@ -45,7 +45,7 @@ The project delivers a fully functional Active Directory environment on a Raspbe
 
 - [Samba Wiki](https://wiki.samba.org/index.php/Main_Page)
 - [DietPi Documentation](https://dietpi.com/docs/)
-- [TheOldTek Website](https://github.com/aguirluis)
+- [TheOldTek Website](https://aguirluis.github.io/theoldtek/)
 
 ---
 
